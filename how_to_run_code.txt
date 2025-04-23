@@ -1,0 +1,14 @@
+
+INSTRUCTIONS
+
+To run the code we have to command "streamlit run 2-Streamlit.py" in the terminal.
+It may ask you to provide the email address... please provide it.
+Then it will redirect you to Google Chrome.
+
+You can upload any csv file as per your wish. 
+Only those kind of csv should be uploaded by which you can predict something like Salary of employees, House Price.. etc. Not any unnecessary csv.
+Then enter your target column i.e. the dependent column like Salary of employees, House Price. (you can choose only one column as your target column)
+Then enter other independent columns (like Experience, Education level are indicators about how much salary an employee is supposed to get)
+
+Enter numbers that you actually want to predict.
+Atlast "Predicted class" will give you the result of prediction. (say, price of the house or salary of employee)
