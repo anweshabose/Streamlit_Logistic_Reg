@@ -1,1 +1,15 @@
 # Streamlit_Logistic_Reg
+
+*DOMAIN*: Artificial Intelligence & MACHINE LEARNING
+
+*NAME*: ANWESHA BOSE
+
+*Code*: "2-Streamlit.py" file attached in the repository.
+
+*Entire Output*: "Result_of_prediction.txt" file attached in the repository.
+
+*CSV FILE* : You can upload any csv file as per your wish. BUT
+Only those kind of csv should be uploaded by which you can predict something like Salary of employees, House Price.. etc. Not any unnecessary csv.
+
+*INSTRUCTION*: "how_to_run_code.txt" file attached in the repository. PLEASE FOLLOW THOSE INSTRUCTIONS.
+To run the code we have to command "streamlit run 2-Streamlit.py" in the terminal.
