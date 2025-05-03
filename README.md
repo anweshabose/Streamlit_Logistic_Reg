@@ -4,10 +4,6 @@
 
 *NAME*: ANWESHA BOSE
 
-*Code*: "2-Streamlit.py" file attached in the repository.
-
-*Entire Output*: "Result_of_prediction.txt" file attached in the repository.
-
 *CSV FILE* : You can upload any csv file as per your wish. BUT
 Only those kind of csv should be uploaded by which you can predict something like Salary of employees, House Price.. etc. Not any unnecessary csv.
 Few csv samples are attached in the repository.
